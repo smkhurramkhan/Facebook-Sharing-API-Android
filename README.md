@@ -1,8 +1,6 @@
 # Facebook-Sharing-API-Android
 Sharing Data on Facebook using facebook sharing api
 
-https://scontent.fisb6-1.fna.fbcdn.net/v/t39.2178-6/11057184_822163927854102_637828047_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=5ca315&_nc_eui2=AeHh5QmyOpTuftm1xhS8SZL8I-7Z7Fr7Gi8j7tnsWvsaL4DC15OJVCvtdRjxWm-ifOmGWYMQhyNy5_SKMyzOGBc-&_nc_ohc=yqGJC9KeaUAAX8dyN-g&_nc_ht=scontent.fisb6-1.fna&oh=00_AT-i4Z3OA2v5sxn4SyXNF4D6pLna5C8auGlG7s0a6gaElA&oe=625B565B
-https://scontent.fisb6-1.fna.fbcdn.net/v/t39.2178-6/11057184_822163927854102_637828047_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=5ca315&_nc_eui2=AeHh5QmyOpTuftm1xhS8SZL8I-7Z7Fr7Gi8j7tnsWvsaL4DC15OJVCvtdRjxWm-ifOmGWYMQhyNy5_SKMyzOGBc-&_nc_ohc=yqGJC9KeaUAAX8dyN-g&_nc_ht=scontent.fisb6-1.fna&oh=00_AT-i4Z3OA2v5sxn4SyXNF4D6pLna5C8auGlG7s0a6gaElA&oe=625B565B
 
 
 STEPS REQUIRED
