@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facebook Sharing Api</string>
+
+    <string name="facebook_app_id" translatable="false">YOUR FB APP ID HERE</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb[YOUR FB APP ID HERE]</string>
+    <string name="facebook_client_token" translatable="false">FB CLIENT TOKEN</string>
+</resources>
